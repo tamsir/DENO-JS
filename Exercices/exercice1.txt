@@ -1,0 +1,6 @@
+Create a webserver which response to the client with array of 3 Employee objects:
+1- 1, Sam, Manager
+2- 2, Michael, Worker
+3- 3, Antonio, Accountant
+
+The output has to be in json format after we call the server url http://localhost:8000
